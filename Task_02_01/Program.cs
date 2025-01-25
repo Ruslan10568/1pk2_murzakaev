@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int a = 8;
+            int b = 14;
+            object c = 0,78539;
+
+
         }
     }
 }
