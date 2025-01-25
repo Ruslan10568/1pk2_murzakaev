@@ -1,4 +1,4 @@
-﻿namespace Task_02_01
+﻿namespace Task_02_02
 {
     internal class Program
     {
